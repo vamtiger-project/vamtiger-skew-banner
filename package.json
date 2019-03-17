@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-skew-banner",
-    "version": "0.0.1",
+    "version": "0.0.2-0",
     "description": "VAMTIGER Skew Banner.",
     "main": "build",
     "scripts": {
