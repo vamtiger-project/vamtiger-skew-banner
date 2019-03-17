@@ -1,0 +1,1 @@
+{"version":3,"sources":["source/css/document-index.css"],"names":[],"mappings":"AAAA,4BAEI,WAAY,AACZ,YAAa,AACb,cAAe,AACf,UAAY,CACf","file":"source/css/document-index.css","sourcesContent":["[slot=\"vamtiger-skew-banner\"]\n{\n    width: 100%;\n    height: 100%;\n    grid-column: 1;\n    grid-row: 1;\n}"]}

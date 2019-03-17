@@ -1,0 +1,1 @@
+{"version":3,"sources":["source/css/index.css"],"names":[],"mappings":"AAAA,MAEI,SAAU,AACV,UAAW,AAEX,kBAAmB,AACnB,aAAc,AAEd,eAAiB,CACpB","file":"source/css/index.css","sourcesContent":[":host\n{\n    margin: 0;\n    padding: 0;\n\n    position: relative;\n    display: grid;\n\n    overflow: hidden;\n}"]}
